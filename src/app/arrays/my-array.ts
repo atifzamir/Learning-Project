@@ -7,7 +7,7 @@ export class MyArray {
 
     createArrayOfSizeTenWithValue(value: number): number[] {
         // implement this
-        return null;
+        return [];
     }
 }
 
